@@ -1,0 +1,17 @@
+
+${AnsiColor.BLUE}
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+${AnsiColor.WHITE}
+TTTTTTTTTTTTTTTTTT    IIII      GGGGGGGGGGGGGGG          GGGGGGGGGGGGGGG       LLLL              EEEEEEEEEEEEEEEEEE
+TTTTTTTTTTTTTTTTTT    IIII    GGGG           GGGG      GGGG           GGGG     LLLL              EEEEE
+       TTTT           IIII    GGG                      GGG                     LLLL              EEEEE
+       TTTT           IIII    GGGG       GGGGGGGGG     GGGG       GGGGGGGGG    LLLL              EEEEEEEEEEEEEEEEEE
+       TTTT           IIII    GGGG          GGGG       GGGG          GGGG      LLLL              EEEEE
+       TTTT           IIII    GGGG          GGGG       GGGG          GGGG      LLLLLLLLLLLLLLL   EEEEE
+       TTTT           IIII      GGGGGGGGGGGGGGGG         GGGGGGGGGGGGGGGG      LLLLLLLLLLLLLLL   EEEEEEEEEEEEEEEEEE
+${AnsiColor.BLUE}
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+
+${AnsiColor.BRIGHT_GREEN}Spring Boot ${AnsiColor.RED}${spring-boot.formatted-version}
