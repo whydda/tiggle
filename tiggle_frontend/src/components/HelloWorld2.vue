@@ -81,7 +81,7 @@
       </li>
     </ul>
     <div>
-      <router-link to='/hello2'>HELLO2</router-link>
+      <router-link to='/'>/</router-link>
     </div>
   </div>
 </template>

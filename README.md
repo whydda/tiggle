@@ -8,6 +8,9 @@
 
 ---
 
+## vue.js 프로젝트 빌드방법
+* yarn build
+
 ## 참고사이트
 *  github digimon1740/todo-app [[click]][1],
 
